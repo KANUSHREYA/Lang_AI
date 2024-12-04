@@ -1,2 +1,2 @@
 # Lang_AI
-Any book written in Hindi English Sanskrit or any other language using AI any question can be answered
+AI-powered platform answers questions about any book in multiple languages, using semantic search and NLP for accurate responses.
